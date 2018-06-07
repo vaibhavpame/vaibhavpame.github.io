@@ -1,0 +1,5 @@
+C:\Vaibhav Pame\AngularJSDemo\AngularJSDemo\bin\AngularJSDemo.dll
+C:\Vaibhav Pame\AngularJSDemo\AngularJSDemo\bin\AngularJSDemo.pdb
+C:\Vaibhav Pame\AngularJSDemo\AngularJSDemo\obj\Debug\AngularJSDemo.dll
+C:\Vaibhav Pame\AngularJSDemo\AngularJSDemo\obj\Debug\AngularJSDemo.pdb
+C:\Vaibhav Pame\AngularJSDemo\AngularJSDemo\obj\Debug\AngularJSDemo.csprojResolveAssemblyReference.cache
